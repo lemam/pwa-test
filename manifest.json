@@ -1,0 +1,42 @@
+{
+  "background_color": "#ffffff",
+  "description": "ngrok is the fastest way to put anything on the internet with a single command.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "6f01-14-50-47-75.ngrok-free",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "6f01-14-50-47-75.ngrok-free",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": ["lifestyle", "shopping"],
+  "screenshots": [
+    {
+      "src": "icon/maskable_icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "platform": "wide"
+    }
+  ],
+  "icons": [
+    {
+      "src": "icon/maskable_icon_x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon/maskable_icon_x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "shortcut",
+      "url": "/shortcut",
+      "description": "This ist shortcut"
+    }
+  ]
+}
